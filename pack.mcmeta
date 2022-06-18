@@ -1,6 +1,6 @@
 {
   "pack": {
     "pack_format": 8,
-    "description": "Ignore the incorrect MC version. Will (or at least should) work with any version of the Aether!"
+    "description": "Ignore the version warning. Should work with any version of the Aether!"
   }
 }
